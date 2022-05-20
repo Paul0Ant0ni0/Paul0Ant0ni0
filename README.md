@@ -13,7 +13,7 @@ Olá! Eu sou o Paulo Antonio!
 - 😍 Hobbies:
       </td>
       <td>
-     🎞️ Aissitir Filmes e Series | ✈️ Viajar | 🌲 Desfrutar da Natureza
+     🎞️ Aissistir Filmes e Series | ✈️ Viajar | 🌲 Desfrutar da Natureza
       </td>
     </tr>
   </tr>
