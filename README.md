@@ -6,7 +6,7 @@ Olá! Eu sou o Paulo Antonio!
 - 🌱  Atualmente estou cursando: 
     </td>
     <td>
- Bootcamp da Generation Brasil e Cellep - Estação Hack
+ Bootcamp da Generation Brasil
     </td>
     <tr>
       <td>
