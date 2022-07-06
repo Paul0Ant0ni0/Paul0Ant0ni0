@@ -4,7 +4,7 @@ Sejam bem vindos(es) ao perfil.
 <table style="background:red">
   <tr>
     <td>
-- 🌱  Atualmente estou cursando: 
+- 🌱  Desenvolvedor Mobile
     </td>
     <td>
  Bootcamp da Generation Brasil
