@@ -1,5 +1,7 @@
-
-   
+<h1>👋 Bem-vindo(a) ao meu perfil!</h1>
+<h2>Apresentação</h2>
+<p>Olá! Meu nome é Paulo Antonio e sou um entusiasta de desenvolvimento web e mobile. Tenho conhecimento em linguagens como Java, Kotlin e JavaScript, e me sinto confortável trabalhando com elas.</p>
+<h2>Ferramentas</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauloantonio2310) 
