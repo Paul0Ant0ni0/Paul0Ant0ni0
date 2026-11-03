@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Paulo Antonio — Full Stack Developer" width="100%"/>
+<img src="banner.svg" alt="Paulo Antonio — Full Stack Developer" width="100%"/>
 
 <a href="https://github.com/Paul0Ant0ni0">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=FFE600&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Eu+desmonto+as+coisas+pra+entender+como+elas+funcionam;Angular+%2B+Rails+%2B+PostgreSQL+no+dia+a+dia;C%C3%B3digo+que+resolve+problema+de+gente+de+verdade;Curiosidade+%C3%A9+o+meu+combust%C3%ADvel" alt="Frases animadas" />
@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-FFE600?style=for-the-badge&logo=github&logoColor=0A2472)](https://github.com/Paul0Ant0ni0)
 [![Instagram](https://img.shields.io/badge/-Instagram-1F51FF?style=for-the-badge&logo=instagram&logoColor=FFE600)](https://instagram.com/dev.paulo785)
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 </div>
 
